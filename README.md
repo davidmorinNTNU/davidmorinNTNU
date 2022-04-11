@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-My name is David Morin and I am an associate professor at the Department of Structural Engineering at the Norwegian University of Science and Technology (NTNU) in Trondheim, Norway.
+My name is David Morin and I am an associate professor at the Department of Structural Engineering at the Norwegian University of Science and Technology (NTNU) in Trondheim, Norway. I am associated to the research group SIMLab (Structural IMpact Laboratory).
+
+Research:
+My research activities are linked to testing and modelling of materials, joints and structures subjected to large deformations and failure under various loading conditions (high and low speeds). I am an active developer in both python and FORTRAN where my codes are usually used in combination with Finite Element Analyses (FEA).
+
+Education:
+
 
 <!--
 **davidmorinNTNU/davidmorinNTNU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
