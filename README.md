@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is David Morin and I am an associate professor at the Department of Structural Engineering at the Norwegian University of Science and Technology (NTNU) in Trondheim, Norway. I am associated to the research group SIMLab (Structural IMpact Laboratory).
+My name is David Morin and I am an associate professor at the Department of Structural Engineering at the Norwegian University of Science and Technology ([NTNU](https://www.ntnu.edu)) in Trondheim, Norway. I am associated to the research group [SIMLab](https://www.ntnu.edu/kt/simlab) (Structural IMpact Laboratory).
 
 Research:
 
